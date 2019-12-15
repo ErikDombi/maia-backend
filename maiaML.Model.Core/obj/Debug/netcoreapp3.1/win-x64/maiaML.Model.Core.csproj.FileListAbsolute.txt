@@ -1,0 +1,10 @@
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\bin\Debug\netcoreapp3.1\win-x64\MLModel.zip
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\bin\Debug\netcoreapp3.1\win-x64\hostpolicy.dll
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\bin\Debug\netcoreapp3.1\win-x64\hostfxr.dll
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\bin\Debug\netcoreapp3.1\win-x64\maiaML.Model.Core.deps.json
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\bin\Debug\netcoreapp3.1\win-x64\maiaML.Model.Core.dll
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\bin\Debug\netcoreapp3.1\win-x64\maiaML.Model.Core.pdb
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\obj\Debug\netcoreapp3.1\win-x64\maiaML.Model.Core.AssemblyInfoInputs.cache
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\obj\Debug\netcoreapp3.1\win-x64\maiaML.Model.Core.AssemblyInfo.cs
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\obj\Debug\netcoreapp3.1\win-x64\maiaML.Model.Core.dll
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\obj\Debug\netcoreapp3.1\win-x64\maiaML.Model.Core.pdb

@@ -1,0 +1,9 @@
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model\bin\Debug\netstandard2.0\maiaML.Model.deps.json
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model\bin\Debug\netstandard2.0\maiaML.Model.dll
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model\bin\Debug\netstandard2.0\maiaML.Model.pdb
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model\obj\Debug\netstandard2.0\maiaML.Model.csprojAssemblyReference.cache
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model\obj\Debug\netstandard2.0\maiaML.Model.AssemblyInfoInputs.cache
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model\obj\Debug\netstandard2.0\maiaML.Model.AssemblyInfo.cs
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model\obj\Debug\netstandard2.0\maiaML.Model.dll
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model\obj\Debug\netstandard2.0\maiaML.Model.pdb

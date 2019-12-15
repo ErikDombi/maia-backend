@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="text-center">
+    <h1 style="letter-spacing:2px;">Enter Your Patient Code</h1>
+    <h4 style="color:#444;">Patient codes are supplied by doctors during your checkup.</h4><br />
+    <input style="width:20%;" type="text" id="prfid" placeholder="Patient Code"/><br/><br />
+    <button onclick="window.location.href = '/Profile/?id=' + document.getElementById('prfid').value" class="myButton">Sign in</button>
+    <hr />
+</div>

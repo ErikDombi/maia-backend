@@ -1,0 +1,3 @@
+C:\Users\Erik.MSI\source\repos\maia\maiaML\bin\Debug\netcoreapp3.1\MLModel.zip
+C:\Users\Erik.MSI\source\repos\maia\maiaML\obj\Debug\netcoreapp3.1\maiaML.AssemblyInfoInputs.cache
+C:\Users\Erik.MSI\source\repos\maia\maiaML\obj\Debug\netcoreapp3.1\maiaML.AssemblyInfo.cs

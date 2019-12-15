@@ -1,0 +1,10 @@
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\bin\Release\netcoreapp3.1\linux-arm\MLModel.zip
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\bin\Release\netcoreapp3.1\linux-arm\libhostpolicy.so
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\bin\Release\netcoreapp3.1\linux-arm\libhostfxr.so
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\bin\Release\netcoreapp3.1\linux-arm\maiaML.Model.Core.deps.json
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\bin\Release\netcoreapp3.1\linux-arm\maiaML.Model.Core.dll
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\bin\Release\netcoreapp3.1\linux-arm\maiaML.Model.Core.pdb
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\obj\Release\netcoreapp3.1\linux-arm\maiaML.Model.Core.AssemblyInfoInputs.cache
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\obj\Release\netcoreapp3.1\linux-arm\maiaML.Model.Core.AssemblyInfo.cs
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\obj\Release\netcoreapp3.1\linux-arm\maiaML.Model.Core.dll
+C:\Users\Erik.MSI\source\repos\maia\maiaML.Model.Core\obj\Release\netcoreapp3.1\linux-arm\maiaML.Model.Core.pdb

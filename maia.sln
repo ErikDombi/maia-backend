@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "maia", "maia\maia.csproj", "{58EBE257-452E-4DA4-976D-5B8539B9CDCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maia.ai-training", "maia.ai-training\maia.ai-training.csproj", "{2B039F01-19EC-4B1E-8326-720C23FF5968}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "maiaML.Model", "maiaML.Model\maiaML.Model.csproj", "{A8E759CE-2F13-4208-97CB-2B67CBB4274D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "maiaML.ConsoleApp", "maiaML.ConsoleApp\maiaML.ConsoleApp.csproj", "{7BC58B2C-55C1-4F1B-9D6A-88FE9E14F25B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maiaML.Model.Core", "maiaML.Model.Core\maiaML.Model.Core.csproj", "{3FF75EFC-AD20-445F-964F-9C1CFCAA8DDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maiaML", "maiaML\maiaML.csproj", "{A07433C0-6FC9-4738-AA2A-DD07E6440572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58EBE257-452E-4DA4-976D-5B8539B9CDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EBE257-452E-4DA4-976D-5B8539B9CDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58EBE257-452E-4DA4-976D-5B8539B9CDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58EBE257-452E-4DA4-976D-5B8539B9CDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B039F01-19EC-4B1E-8326-720C23FF5968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B039F01-19EC-4B1E-8326-720C23FF5968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B039F01-19EC-4B1E-8326-720C23FF5968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B039F01-19EC-4B1E-8326-720C23FF5968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E759CE-2F13-4208-97CB-2B67CBB4274D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E759CE-2F13-4208-97CB-2B67CBB4274D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E759CE-2F13-4208-97CB-2B67CBB4274D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E759CE-2F13-4208-97CB-2B67CBB4274D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC58B2C-55C1-4F1B-9D6A-88FE9E14F25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC58B2C-55C1-4F1B-9D6A-88FE9E14F25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC58B2C-55C1-4F1B-9D6A-88FE9E14F25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC58B2C-55C1-4F1B-9D6A-88FE9E14F25B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF75EFC-AD20-445F-964F-9C1CFCAA8DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF75EFC-AD20-445F-964F-9C1CFCAA8DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF75EFC-AD20-445F-964F-9C1CFCAA8DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF75EFC-AD20-445F-964F-9C1CFCAA8DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07433C0-6FC9-4738-AA2A-DD07E6440572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07433C0-6FC9-4738-AA2A-DD07E6440572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07433C0-6FC9-4738-AA2A-DD07E6440572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07433C0-6FC9-4738-AA2A-DD07E6440572}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9B900A0-235D-42C5-B408-3CF35D33FC45}
+	EndGlobalSection
+EndGlobal

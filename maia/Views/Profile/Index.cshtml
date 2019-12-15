@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+@model maia.Controllers.ProfileModel;
+
+<div class="text-center">
+    <h1>Welcome Back, @Model.patient.FirstName!</h1>
+    <hr />
+</div>
+<div class="row">
+    <div class="col-md-4 flex-fill box-shadow" style="background:#EEE;">
+        <h3>Visit History</h3>
+        @foreach(var visit in Model.patient.History)
+        {
+            <div style="width:100%;border-radius:15px;background:white;padding:10px;margin-bottom:10px;">
+                <h3>@visit.Date</h3>
+                <p><b>Doctor: </b>@visit.Doctor<br/><b>Diagnosis: </b>@visit.FinalDiagnosis<br/><b>Symptoms: </b>@string.Join(", ", visit.Symptoms)</p>
+            </div>
+        }
+    </div>
+    <div class="col-md-8 flex-fill box-shadow">
+        <div class="row">
+            <div class="col-md-8 offset-2">
+                <div class="text-center">
+                    <h3>How are you feeling today?</h3>
+                    <input type="text" id="sym" placeholder="Not feeling well? Try listing me some symptoms." />
+                    <br/>
+                    <br/>
+                    <button onclick="window.location.href = '/Profile/?id=' + '@Model.patient.ID' + '&symptoms=' + document.getElementById('sym').value" style="width:98% !important;" class="myButton">What's the damage, doc?</button>
+                    <hr />
+                    @if(Model.Prediction != null)
+                    {
+                        <h3>Well that's probably not good...</h3>
+                        <h5>Our super intelligent monkeys running things behind the scenes have come up with a possible early detection diagnosis. Sadly, from your symptoms, it sounds like <b><i>@Model.Prediction</i></b>.</h5>
+                        <br/>
+                        <h5>But then again, what do they know. They're just some monkeys. Go see your local doctor and get checked. It's better safe than sorry!</h5>
+                        <br/>
+                        <hr />
+                        <br/>
+                        <h6>How do we determine our diagnosis?</h6>
+                        <p>We use Machine Learning with pre-trained models, that take both your current symptoms and medical history. Once our systems have had time to digest your request, it'll give you your (hopefully not-so-bad) diagnosis.</p>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
